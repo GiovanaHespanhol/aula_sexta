@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: #ccc;
+    background-color: #d79dee;
     overflow: hidden;
     display: flex;
     justify-content: center;
@@ -17,7 +17,7 @@ body {
 .hexagon {
     width: 50px;
     height: 57 .735px;
-    background-color: #fff;
+    background-color: #1b5fac;
     position: absolute;
     clip-path: polygon(50% 0%, 
                         100% 25%, 

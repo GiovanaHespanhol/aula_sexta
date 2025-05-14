@@ -25,7 +25,7 @@ function changeColor(event) {
     const hexagon = event.target;
     let currentColor = hexagon.style.backgroundColor;
 
-    if (currentColor == 'rgb(255, 255, 255)' || currentColor === '') {
+    if (currentColor == 'rgb(212, 48, 48)' || currentColor === '') {
         hexagon.style.backgroundColor = colors[0];
         hexagon.dataset.colorIndex = 0;
     } else {
